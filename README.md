@@ -1,2 +1,3 @@
-# trx-renko-scan
-TRX daily Renko + Hull Suite 55 + MACD histogram strategy scan results (2026). Signal scan only, not financial advice.
+TRX Renko strategy scan results (2026). Live site: https://suvikshi-ui.github.io/trx-renko-scan/
+
+Signal scan only, not financial advice.
